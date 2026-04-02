@@ -1,0 +1,16 @@
+[
+  {
+    "name": "North Atlantic Basin",
+    "zoneType": "Ocean Basin",
+    "climateRisk": "Cyclone intensification pressure",
+    "modelConvergence": "95.6%",
+    "carbonSignal": "Surface uptake variability increasing"
+  },
+  {
+    "name": "IPCC Polar Systems",
+    "zoneType": "Cryosphere",
+    "climateRisk": "Accelerated ice-loss volatility",
+    "modelConvergence": "94.8%",
+    "carbonSignal": "Permafrost methane signal rising"
+  }
+]
